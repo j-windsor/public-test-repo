@@ -5,8 +5,8 @@
   "templates": [  
     {
       "path": "folder1",
-      "name": "project1",
-      "description": "some description here...",
+      "name": "project1jay",
+      "description": "some description here from jay...",
       "languages": ["python", "java"]
     },
     {
