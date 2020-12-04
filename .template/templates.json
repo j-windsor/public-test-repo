@@ -18,7 +18,6 @@
     {
       "path": "folder2",
       "name": "project3",
-      "languages": ["nodejs"]
     }  
   ]
 }
