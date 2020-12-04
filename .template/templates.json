@@ -16,8 +16,7 @@
       "languages": ["nodejs"]
     },  
     {
-      "path": "folder2",
-      "name": "project3"
+      "path": "folder2"
     }  
   ]
 }
