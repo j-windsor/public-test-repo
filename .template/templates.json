@@ -16,7 +16,9 @@
       "languages": ["nodejs"]
     },  
     {
-      "path": "folder2"
+      "path": "folder2",
+      "name": "project trheeeeeeee!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consectetur est at dignissim mattis. Phasellus id felis nec odio dictum porta. Curabitur cursus, nibh quis maximus mattis, nunc felis posuere diam, quis varius mauris velit at erat. Suspendisse potenti. Mauris quis cursus dui. Donec elementum mauris sed sem commodo mattis molestie non orci. Nulla elementum ornare luctus. Pellentesque ligula ex, sollicitudin et maximus ut, posuere sit amet sem. Quisque dignissim, mi vel feugiat dictum, enim nunc sodales ante, at convallis turpis justo in diam. Nullam fermentum, lectus at pharetra gravida, tortor orci ullamcorper orci, vitae lacinia lectus ligula in arcu.",
     }  
   ]
 }
